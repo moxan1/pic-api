@@ -1,14 +1,14 @@
 <?php
 
 /*
-	Copyright 2022 梓宸.
-	Blog:https://zichen.zone/
-	Licensed under MIT (https://github.com/zichenace/PHP-Random-Pic-API/blob/main/LICENSE)
+	Copyright 2022 Moxan.
+	GW:https://moxan.top/
+	Licensed under MIT (https://github.com/momoTrace/pic-api/blob/main/LICENSE)
 	Ver:1.2.0.20220828
 */
 
 #配置项目
-$APIname='ZiC API';		//API名称自定义
+$APIname='Moxan Pic API';		//API名称自定义
 $image_file='./img.txt';	//API数据文件
 
 #文件不见了
